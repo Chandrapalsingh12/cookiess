@@ -20,7 +20,7 @@ function Home(props) {
   return (
     <>
       <Card />
-      <h1>Daily Best Recipies of {searchQuery}</h1>
+      <h1>Daily Best Recipes of {searchQuery}</h1>
 
       <div className="dailycard-container">
         {data &&

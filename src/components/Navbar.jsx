@@ -90,7 +90,7 @@ function Navbar() {
         <div className="search-bar">
           <form onSubmit={handleSearchQueryChange}>
             <input 
-              placeholder="Search Recipies"
+              placeholder="Search Recipes"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />

@@ -38,7 +38,7 @@ function LikeItem(props) {
 
   return (
     <div>
-      <h1>Your Save Recipies</h1>
+      <h1>Your Save Recipes</h1>
       {isUSer ? (
         <>
           {bookmarks.map((bookmark) => (

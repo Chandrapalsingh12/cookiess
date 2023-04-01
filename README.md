@@ -6,7 +6,7 @@ Welcome to Cookiess, a recipes website built using React, Firebase, and Edamam A
 
 Here's a preview of Cookiess:
 
-![Cookiess Preview](https://github.com/Chandrapalsingh12/cookiess/blob/main/src/assets/AppScreenshot.png)
+![Cookiess Preview](https://drive.google.com/file/d/1HIMk46Wx8nzULMDBWbCt46idcxCGptNO/view?usp=sharing)
 
 ## Getting Started
 

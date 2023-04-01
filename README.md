@@ -2,6 +2,12 @@
 
 Welcome to Cookiess, a recipes website built using React, Firebase, and Edamam API. Cookiess allows users to search for recipes and ingredients, save recipes in their favorite list, and login/signup using their Google account or their own ID and password.
 
+## Preview
+
+Here's a preview of Cookiess:
+
+![Cookiess Preview](https://github.com/Chandrapalsingh12/cookiess/blob/main/src/assets/AppScreenshot.png)
+
 ## Getting Started
 
 To get started with Cookiess, you can visit the website by going to https://cookiess.vercel.app/. Once you are on the website, you can start searching for recipes or ingredients by typing in the search bar. If you want to save a recipe, you can create an account by clicking on the "Sign in" button and then either logging in with your Google account or creating an account with your own ID and password.
